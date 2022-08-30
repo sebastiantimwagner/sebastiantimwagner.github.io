@@ -2,10 +2,12 @@
 layout: default
 ---
 
-![alt text](assets/sebastian.jpg)
-<img src="assets/sebastian.jpg" alt="drawing" width="200"/>
+<img src="assets/sebastian.jpg" width="200"/>
+
+<br>
 Hi, I'm Sebastian, an AI Engineer turned Web3 builder. I like building data products that help people lead better lives.
 
+<br>
 
 ## Ubuntu Productivity Stack
 
@@ -15,16 +17,6 @@ Tools I use to stay productive:
 * [autojump](https://github.com/wting/autojump): Faster way to navigate the filesystem, remembers frequently used directories
 * [fish](https://fishshell.com/): Alternative shell to bash and zsh with in-built autosuggestions, autocomplete, font highlighting. 
 * [ulauncher](https://ulauncher.io/): An application launcher for Linux, similar to the Mac OS launchers Spotlight / Alfred / Raycast. Has a useful [plugin](https://ext.ulauncher.io/-/github-plibither8-ulauncher-vscode-recent) for quickly opening VSCode projects
-
-##  Technologies I use frequently
-
-* FastAPI
-* React
-* PyTorch
-* Docker
-* Kubernetes
-* AWS / Google Cloud
-* Ubuntu
 
 
 ## Background
